@@ -112,6 +112,10 @@ h6{
 
 }
 
+a{
+text-decoration:none;
+color:#cccccc;
+}
 .line{
 	height:4px;
 	background-color:#4aaaa5; 
