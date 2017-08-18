@@ -221,7 +221,7 @@ a{
 	color:#cccccc;
 }
 
-input, textarea{
+.input, textarea{
 	width:100%;
 }
 
