@@ -161,7 +161,7 @@ margin-right:20px;
 .input{
 	color:#cccccc;
 	margin:6px 0;
-
+	width:100%;
 }
 
 .box1{
@@ -221,7 +221,7 @@ a{
 	color:#cccccc;
 }
 
-.input, textarea{
+textarea{
 	width:100%;
 }
 
