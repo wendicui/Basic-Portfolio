@@ -56,7 +56,7 @@ h6{
 	color:#777777;
 	font-size:14px;
 	margin:0 auto;
-	width:100%;
+	
 }
 
 
@@ -113,10 +113,7 @@ h6{
 
 }
 
-a{
-text-decoration: none;
-color:#cccccc;
-}
+
 .line{
 	height:4px;
 	background-color:#4aaaa5; 
@@ -219,7 +216,14 @@ margin-right:20px;
 	opacity: 0.8;
 
 }
+a{
+	text-decoration: none;
+	color:#cccccc;
+}
 
+input, textarea{
+	width:100%;
+}
 
 p{
 	font-size: 12px;
